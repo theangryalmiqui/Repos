@@ -1,0 +1,3 @@
+C:\Users\Arax\Documents\Repos\EscapeRoom\Source\EscapeRoom\EscapeRoom.Build.cs
+C:\Users\Arax\Documents\Repos\EscapeRoom\Source\EscapeRoom.Target.cs
+C:\Users\Arax\Documents\Repos\EscapeRoom\Source\EscapeRoomEditor.Target.cs
