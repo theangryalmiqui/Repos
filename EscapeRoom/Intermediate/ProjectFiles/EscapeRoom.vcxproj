@@ -418,6 +418,10 @@
 		<ClInclude Include="..\..\Source\EscapeRoom\EscapeRoom.h" />
 		<ClCompile Include="..\..\Source\EscapeRoom\EscapeRoomGameModeBase.cpp" />
 		<ClInclude Include="..\..\Source\EscapeRoom\EscapeRoomGameModeBase.h" />
+		<ClCompile Include="..\..\Source\EscapeRoom\MyOpenDoor.cpp" />
+		<ClInclude Include="..\..\Source\EscapeRoom\MyOpenDoor.h" />
+		<ClCompile Include="..\..\Source\EscapeRoom\OpenDoor.cpp" />
+		<ClInclude Include="..\..\Source\EscapeRoom\OpenDoor.h" />
 		<ClCompile Include="..\..\Source\EscapeRoom\PositionReporter.cpp" />
 		<ClInclude Include="..\..\Source\EscapeRoom\PositionReporter.h" />
 	</ItemGroup>

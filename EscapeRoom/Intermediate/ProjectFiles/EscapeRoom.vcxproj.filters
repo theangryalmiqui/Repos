@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\EscapeRoom.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{ACD1674E-ED65-4F51-9D69-8FAFC9F69DF5}</UniqueIdentifier>
+			<UniqueIdentifier>{94212316-B595-4CFA-B293-C9FFF647CF11}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\EscapeRoom.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{DFE02481-2A26-40AC-836F-57F7196CF240}</UniqueIdentifier>
+			<UniqueIdentifier>{B01718EF-783D-496A-B882-82C41CC7EDA5}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -25,7 +25,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\EscapeRoom">
-			<UniqueIdentifier>{7F3C8CAE-D17E-40C5-94CD-12349858A269}</UniqueIdentifier>
+			<UniqueIdentifier>{9A104311-17C6-4929-984A-D1158F981313}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\EscapeRoom\EscapeRoom.Build.cs">
 			<Filter>Source\EscapeRoom</Filter>
@@ -40,6 +40,18 @@
 			<Filter>Source\EscapeRoom</Filter>
 		</ClCompile >
 		<ClInclude Include="..\..\Source\EscapeRoom\EscapeRoomGameModeBase.h">
+			<Filter>Source\EscapeRoom</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\EscapeRoom\MyOpenDoor.cpp">
+			<Filter>Source\EscapeRoom</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\EscapeRoom\MyOpenDoor.h">
+			<Filter>Source\EscapeRoom</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\EscapeRoom\OpenDoor.cpp">
+			<Filter>Source\EscapeRoom</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\EscapeRoom\OpenDoor.h">
 			<Filter>Source\EscapeRoom</Filter>
 		</ClInclude >
 		<ClCompile Include="..\..\Source\EscapeRoom\PositionReporter.cpp">

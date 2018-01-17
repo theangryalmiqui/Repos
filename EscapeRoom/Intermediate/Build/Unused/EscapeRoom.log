@@ -1,0 +1,36 @@
+﻿  Cleaning EscapeRoomEditor Binaries...
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for EscapeRoomEditor (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Parsing headers for EscapeRoomEditor
+    Running UnrealHeaderTool "C:\Users\Arax\Documents\Repos\EscapeRoom\EscapeRoom.uproject" "C:\Users\Arax\Documents\Repos\EscapeRoom\Intermediate\Build\Win64\EscapeRoomEditor\Development\EscapeRoomEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for EscapeRoomEditor in 10.8105642 seconds
+  Deleting old hot reload file: "C:\Users\Arax\Documents\Repos\EscapeRoom\Binaries\Win64\UE4Editor-EscapeRoom-50.dll".
+  Deleting old hot reload file: "C:\Users\Arax\Documents\Repos\EscapeRoom\Binaries\Win64\UE4Editor-EscapeRoom-50.pdb".
+  Deleting old hot reload file: "C:\Users\Arax\Documents\Repos\EscapeRoom\Binaries\Win64\UE4Editor-EscapeRoom-5165.dll".
+  Deleting old hot reload file: "C:\Users\Arax\Documents\Repos\EscapeRoom\Binaries\Win64\UE4Editor-EscapeRoom-5165.pdb".
+  Deleting old hot reload file: "C:\Users\Arax\Documents\Repos\EscapeRoom\Binaries\Win64\UE4Editor-EscapeRoom-579.dll".
+  Deleting old hot reload file: "C:\Users\Arax\Documents\Repos\EscapeRoom\Binaries\Win64\UE4Editor-EscapeRoom-579.pdb".
+  Deleting old hot reload file: "C:\Users\Arax\Documents\Repos\EscapeRoom\Binaries\Win64\UE4Editor-EscapeRoom-879.dll".
+  Deleting old hot reload file: "C:\Users\Arax\Documents\Repos\EscapeRoom\Binaries\Win64\UE4Editor-EscapeRoom-879.pdb".
+  Deleting old hot reload file: "C:\Users\Arax\Documents\Repos\EscapeRoom\Binaries\Win64\UE4Editor-EscapeRoom-9000.dll".
+  Deleting old hot reload file: "C:\Users\Arax\Documents\Repos\EscapeRoom\Binaries\Win64\UE4Editor-EscapeRoom-9000.pdb".
+  Performing 13 actions (4 in parallel)
+  [3/13] Resource PCLaunch.rc
+  [2/13] Resource ModuleVersionResource.rc.inl
+  SharedPCH.Engine.cpp
+  EscapeRoom.cpp
+  PositionReporter.cpp
+  OpenDoor.cpp
+  EscapeRoomGameModeBase.cpp
+  EscapeRoom.init.gen.cpp
+  EscapeRoomGameModeBase.gen.cpp
+  OpenDoor.gen.cpp
+  PositionReporter.gen.cpp
+  [12/13] Link UE4Editor-EscapeRoom.dll
+  [13/13] Link UE4Editor-EscapeRoom.lib
+     Creating library C:\Users\Arax\Documents\Repos\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-EscapeRoom.lib and object C:\Users\Arax\Documents\Repos\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-EscapeRoom.exp
+     Creating library C:\Users\Arax\Documents\Repos\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-EscapeRoom.suppressed.lib and object C:\Users\Arax\Documents\Repos\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-EscapeRoom.suppressed.exp
+  Deploying EscapeRoomEditor Win64 Development...
+  Total build time: 55.22 seconds (Local executor: 34.41 seconds)

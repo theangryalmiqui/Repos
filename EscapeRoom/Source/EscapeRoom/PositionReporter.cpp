@@ -18,8 +18,13 @@ UPositionReporter::UPositionReporter()
 void UPositionReporter::BeginPlay()
 {
 	Super::BeginPlay();
+	AActor* Owner = GetOwner();
+	FRotator NewRotation = FRotator(0.0f, -75.0f, 0.0f);
+	Owner->SetActorRotation(NewRotation);
+	//FString Owner = GetOwner()->GetTransfor;
 	FString ObjectName = GetOwner()->GetName();
-	UE_LOG(LogTemp, Warning, TEXT("Position report reporting for duty on %s"), *ObjectName);
+	FString ObjectPos = GetOwner()->GetTransform().GetLocation().ToString();
+	UE_LOG(LogTemp, Warning, TEXT("%s is at %s"), *ObjectName, *ObjectPos);
 	
 }
 
